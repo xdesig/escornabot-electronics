@@ -21,5 +21,5 @@ Developers don't produce boards to sell. Under [PCBWAY]
 
 
 [KEY01]: Keypad
-[PCBWAY]: https://www.pcbway.com/project/shareproject/cervus2001.html
+[PCBWAY]: https://www.pcbway.com/project/shareproject/Cervus_Arduino_Leonardo_Coompatible.html
 [XDE01]: https://twitter.com/xdesig
