@@ -1,4 +1,4 @@
-# EscornaCPU 2.12 by [XDesig] [XDE01]
+# EscornaCPU 2.12 by [XDesig][XDE01]
 
 - Control of Escornabot through keyboard, Bluetooth HC-05, 06 and WiFi ESP-01.
 - Central connector, for screen oled or I2C device.
