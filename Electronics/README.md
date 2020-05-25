@@ -39,7 +39,7 @@ Are you a board provider? Please, send us your buyer's guide! :-)
 
 
 [CPU01]: EscornaCPU
-[CPU240]: 
+[CPU240]: https://github.com/xdesig/escornabot-electronics/tree/master/Electronics/EscornaCPU/2.x/2.40
 [ARD01]: ArduinoShield
 [CER01]: Cervus
 [KEY01]: E_KEYPAD
