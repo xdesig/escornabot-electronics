@@ -1,16 +1,11 @@
-
-# Escornabot electronics
-
 <img src="IMG_20180619_093516.jpg" width="300" align="right">
 
-## [E_KEY_BT][E_KEY_BT] 
-Escornabot keyboard with MakeyMakey type sensors on the E_KEY_BT board.
+## E_KEY_BT
+Escornabot keyboard with MakeyMakey type sensors.
    Any object that is minimally conductive can be used. Adjusting the value
    threshold: higher for less sensitivity, nothing needs to be changed in the
    robot firmware.
    
-   
-
 ## License
 
 Every content in this repo, otherwise specified under subdirectories, is
