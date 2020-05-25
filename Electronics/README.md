@@ -4,7 +4,7 @@
 ## Catalog
 
 - [Escorna CPU][CPU01]  is 50x50mm to 50x100mm board to use with
-  Arduino Nano. It integrates keypad on board on 2.x <br> <br> 
+  Arduino Nano. It integrates keypad on board on 2.x 
 - [Escorna_CPU_2.40][CPU240] It is a pcb that integrates an ATmega328P, a step-up to use 1.2V batteries and the rest of the electronics needed to build an Escornabot  
   
 - [Arduino Shield][ARD01]  is an Arduino Uno compatible
