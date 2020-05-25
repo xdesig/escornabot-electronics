@@ -1,6 +1,6 @@
-<img src="IMG_20180619_093516.jpg" width="300" align="right">
+<img src="IMG_20200304_150930.jpg" width="300" align="right">
 
-## E_KEY_BT
+## Escorna CPU 2.4
 Escornabot keyboard with MakeyMakey type sensors.
    Any object that is minimally conductive can be used. Adjusting the value
    threshold: higher for less sensitivity, nothing needs to be changed in the
