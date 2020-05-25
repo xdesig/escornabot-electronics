@@ -10,7 +10,7 @@ Escornabot keyboard with MakeyMakey type sensors on the E_KEY_BT board.
 ## License
 
 Every content in this repo, otherwise specified under subdirectories, is
-licensed under [Creative Commons BY-SA][LICENSEcc] or CERN Open Hardware Licence -W- V2[OHL-W-V2].
+licensed under [Creative Commons BY-SA][LICENSEcc] or [CERN Open Hardware Licence -W- V2][OHL-W-V2].
 (by [XDeSIG][XDE01])
 
 
