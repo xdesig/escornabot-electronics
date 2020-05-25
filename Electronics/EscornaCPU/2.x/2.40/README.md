@@ -23,6 +23,6 @@ Are you a board provider? Please, send us your buyer's guide! :-)
 
 
 [XDE01]: https://twitter.com/xdesig
-[provider]: https://www.pcbway.com/project/member/?bmbno=6FE4DE76-9D11-4C
+[provider]: https://www.pcbway.com/project/shareproject/Escorna_CPU_2_4.html
 [LICENSEcc]: https://creativecommons.org/licenses/by-sa/3.0/es
 [OHL-W-V2]: https://ohwr.org/project/cernohl/wikis/Documents/CERN-OHL-version-2
