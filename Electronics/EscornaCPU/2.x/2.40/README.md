@@ -1,13 +1,13 @@
 <img src="IMG_20200304_150930.jpg" width="300" align="right">
 
 ## Escorna CPU 2.4
- It is a pcb that integrates an ATmega328P, a step-up (to use 1.2V batteries) and the rest of the electronics needed to build an Escornabot.
- Arduino uno, Arduino Nano Compatible and  minicore ATmega
+ It is a pcb that integrates an ATmega328P, a step-up (to use 1.2V batteries) and the rest of the electronics needed to build an Escornabot.<br>
+ Arduino uno, Arduino Nano Compatible or minicore ATmega
    
 ## License
 
 Every content in this repo, otherwise specified under subdirectories, is
-licensed under [Creative Commons BY-SA][LICENSEcc] or [CERN Open Hardware Licence -W- V2][OHL-W-V2].
+licensed under [CERN Open Hardware Licence -W- V2][OHL-W-V2].
 (by [XDeSIG][XDE01])
 
 
