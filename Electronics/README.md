@@ -3,7 +3,7 @@
 
 ## Catalog
 
-- [Escorna CPU][CPU01]  is 50x50mm to a 50x100mm board to use with
+- [Escorna CPU][CPU01]  is 50x50mm to 50x100mm board to use with
   Arduino Nano. It integrates keypad on board on 2.x
 - [Arduino Shield][ARD01]  is an Arduino Uno compatible
   shield ready to use with the Escornabot's motors and also integrates a keypad.
