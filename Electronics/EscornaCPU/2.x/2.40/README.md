@@ -1,10 +1,8 @@
 <img src="IMG_20200304_150930.jpg" width="300" align="right">
 
 ## Escorna CPU 2.4
-Escornabot keyboard with MakeyMakey type sensors.
-   Any object that is minimally conductive can be used. Adjusting the value
-   threshold: higher for less sensitivity, nothing needs to be changed in the
-   robot firmware.
+ It is a pcb that integrates an ATmega328P, a step-up (to use 1.2V batteries) and the rest of the electronics needed to build an Escornabot.
+ Arduino uno, Arduino Nano Compatible and  minicore ATmega
    
 ## License
 
@@ -23,8 +21,6 @@ Are you a board provider? Please, send us your buyer's guide! :-)
 
 
 
-
-[imax]: https://github.com/xdesig/escornabot-electronics/blob/master/Electronics/E_KEY_BT/IMG_20180619_093516.jpg
 
 [XDE01]: https://twitter.com/xdesig
 [provider]: https://www.pcbway.com/project/member/?bmbno=6FE4DE76-9D11-4C
