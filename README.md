@@ -1,4 +1,4 @@
-# escornabot-electronics
+# escornabot
 Educational robot
 scornabot is an open source/hardware project that aims to bring robotics and programming to children.
 
