@@ -16,7 +16,7 @@ licensed under [CERN Open Hardware Licence -W- V2][OHL-W-V2].
 
 Developer doesn't produce boards to get money. [_provider_][provider]
 
-Are you a board provider? Please, send us your buyer's guide! [Mail](xdesig@gmail.com)
+Are you a board provider? Please, send us your buyer's guide! xdesig@gmail.com
 
 
 
