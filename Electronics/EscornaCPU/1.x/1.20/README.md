@@ -23,7 +23,7 @@ Are you a board provider? Please, send us your buyer's guide! xdesig@gmail.com
 
 
 [XDE01]: https://twitter.com/xdesig
-[provider]: hhttps://www.pcbway.com/project/shareproject/W50475ASN23_Escorna_CPU_1_20.html
+[provider]: https://www.pcbway.com/project/shareproject/W50475ASN23_Escorna_CPU_1_20.html
 [LICENSEcc]: https://creativecommons.org/licenses/by-sa/3.0/es
 [OHL-W-V2]: https://ohwr.org/project/cernohl/wikis/Documents/CERN-OHL-version-2
 [E_KEYPAD_2.20]: https://github.com/xdesig/escornabot-electronics/tree/master/Electronics/E_KEYPAD/E_KEYPAD_2.20
