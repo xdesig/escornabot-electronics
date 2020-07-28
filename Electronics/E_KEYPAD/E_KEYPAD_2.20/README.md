@@ -15,6 +15,7 @@
 
 Every content in this repo, otherwise specified under subdirectories, is
 licensed under [Creative Commons BY-SA](LICENSE).
+![Top view](E_KEYPAD_2_2.png)
 
 
 ## To buy boards
