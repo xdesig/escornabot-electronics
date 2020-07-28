@@ -1,4 +1,4 @@
-<img src="Escorna_CPU_1_20" width="300" align="right">
+<img src="Escorna_CPU_1_20.png" width="300" align="right">
 
 ## Escorna CPU 1.20
 
