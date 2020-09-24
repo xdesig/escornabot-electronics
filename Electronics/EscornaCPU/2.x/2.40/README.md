@@ -1,9 +1,11 @@
-<img src="SeudoSingularis_preto.jpg" width="300" align="right">
+<img src="Escorna_CPU_2_40_Amt_43.png" width="300" align="right">
 
 ## Escorna CPU 2.4
 This PCB integrates an ATmega328P, a step-up (great to use with 1.2V batteries, suggestion made by [caligari](https://github.com/rafacouto)) and the rest of the electronics needed to build a full-compatible Escornabot.
 USB communications are supported by CH340E<br>
 Arduino Uno, Arduino Nano compatible or ATmega minicore
+
+<img src="Escorna_CPU_2_40_Amt_43.png" width="300" align="right">
    
 ## License
 
