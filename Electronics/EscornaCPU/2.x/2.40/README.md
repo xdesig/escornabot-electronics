@@ -1,4 +1,4 @@
-<img src="IMG_20200304_150930.jpg" width="300" align="right">
+<img src="SeudoSingularis_preto.jpg" width="300" align="right">
 
 ## Escorna CPU 2.4
 This PCB integrates an ATmega328P, a step-up (great to use with 1.2V batteries, suggestion made by [caligari](https://github.com/rafacouto)) and the rest of the electronics needed to build a full-compatible Escornabot.
