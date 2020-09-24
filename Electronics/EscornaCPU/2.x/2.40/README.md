@@ -5,7 +5,7 @@ This PCB integrates an ATmega328P, a step-up (great to use with 1.2V batteries, 
 USB communications are supported by CH340E<br>
 Arduino Uno, Arduino Nano compatible or ATmega minicore
 
-<img src="SeudoSingularis_preto.jpg" width="300" align="right">
+<img src="SeudoSingularis_preto.jpg" width="300" align="left">
    
 ## License
 
