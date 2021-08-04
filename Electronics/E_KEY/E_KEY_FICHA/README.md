@@ -12,7 +12,7 @@ using @arduino Nano, easy to print, manageable and expandable to 15 "Tabs" thank
 Para usar seis fichas necesitamos las PCBs E_KEY_T_1_V y E_KEY_T_2_V esta última con los componentes de alimentación.
 
 <img src="E_KEY_T_2_V.png" width="150" align="right">
-Si queremos tener más fichas (9 a 15) pondremos circuítos E_KEY_T_2_V sin la electrónica de alimentación.
+Si queremos tener más fichas (9 a 15) pondremos circuítos intermedios E_KEY_T_2_V sin la electrónica de alimentación.
 
 <img src="E_KEY_T_2_V_SEL.png" width="100" align="right">
 Siempre se configurará la selección en las placas finales, de acuerdo con el firmware.
@@ -38,6 +38,6 @@ Are you a board provider? Please, send us your buyer's guide! :-)
 [imax]: https://github.com/xdesig/escornabot-electronics/blob/master/Electronics/E_KEY_BT/IMG_20180619_093516.jpg
 
 [XDE01]: https://twitter.com/xdesig
-[provider]:
+[provider]:  http://
 [LICENSEcc]: https://creativecommons.org/licenses/by-sa/3.0/es
 [OHL-W-V2]: https://ohwr.org/project/cernohl/wikis/Documents/CERN-OHL-version-2
