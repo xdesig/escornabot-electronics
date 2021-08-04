@@ -8,14 +8,15 @@ using @arduino Nano, easy to print, manageable and expandable to 15 "Tabs" thank
 <img src="E_KEY_T_1_V.png" width="150" align="right">
 <img src="E_KEY_T_2_V_Power.png" width="150" align="right">
 
-## Cantidad de Fichas
-Para usar seis fichas necesitamos las PCBs E_KEY_T_1_V y E_KEY_T_2_V esta última con los componentes de alimentación.
+## Number of Tags (Fichas)
+To use six tags we need the PCBs E_KEY_T_1_V and E_KEY_T_2_V the latter with the power components.
 
 <img src="E_KEY_T_2_V.png" width="150" align="right">
-Si queremos tener más fichas (9 a 15) pondremos circuítos intermedios E_KEY_T_2_V sin la electrónica de alimentación.
+ If we want to have more chips (9 to 15) we will put intermediate circuits E_KEY_T_2_V without the power supply electronics.
 
 <img src="E_KEY_T_2_V_SEL.png" width="100" align="right">
-Siempre se configurará la selección en las placas finales, de acuerdo con el firmware.
+The selection will always be configured on the end plates, according to the firmware.
+<img src="E_KEY_T_V.png" width="300" align="right">
 
 
 
