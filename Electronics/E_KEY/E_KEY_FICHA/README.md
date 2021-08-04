@@ -15,7 +15,7 @@ To use six tags we need the PCBs E_KEY_T_1_V and E_KEY_T_2_V the latter with the
  If we want to have more chips (9 to 15) we will put intermediate circuits E_KEY_T_2_V without the power supply electronics.
 
 <img src="E_KEY_T_2_V_SEL.png" width="100" align="right">
-The selection will always be configured on the end plates, according to the firmware.
+The selection will always be configured on the end plates, according to the firmware "configuration.h".
 <img src="E_KEY_T_V.png" width="300" align="right">
 
 
