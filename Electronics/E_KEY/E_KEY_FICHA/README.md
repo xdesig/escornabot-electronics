@@ -5,7 +5,9 @@ It allows the programming of Escornabot using printed or cut-out cards (cardboar
 using @arduino Nano, easy to print, manageable and expandable to 15 "Tabs" thanks to the firmware of @caligari_pub.
    
 
-
+<img src="E_KEY_T_1_V.png" width="300" align="right">
+## Para usar seis fichas necesitamos las PCBs E_KEY_T_1_V y E_KEY_T_2_V
+<img src="E_KEY_T_2_V.png" width="300" align="right">
 
 
 ## License
