@@ -10,12 +10,13 @@ using @arduino Nano, easy to print, manageable and expandable to 15 "Tabs" thank
 ## Cantidad de Fichas
 Para usar seis fichas necesitamos las PCBs E_KEY_T_1_V y E_KEY_T_2_V esta última con los componentes de alimentación.
 
-Si queremos tener más fichas (9 a 15) pondremos circuítos E_KEY_T_2_V sin la electrónica de alimentación.
 <img src="E_KEY_T_2_V.png" width="150" align="right">
+Si queremos tener más fichas (9 a 15) pondremos circuítos E_KEY_T_2_V sin la electrónica de alimentación.
 
+<img src="E_KEY_T_2_V_SEL.png" width="100" align="right">
 Siempre se configurará la selección en las placas finales, de acuerdo con el firmware.
 
-<img src="E_KEY_T_2_V_SEL.png" width="150" align="right">
+
 
 ## License
 
