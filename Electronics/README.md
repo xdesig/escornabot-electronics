@@ -16,6 +16,9 @@
    threshold: higher for less sensitivity, nothing needs to be changed in the
    robot firmware.
 
+- [E_KEY_FICHA][E_KEY_FICHA] It allows the programming of Escornabot using printed or cut-out cards (cardboard ..) communicating the commands via Bluetooth.
+  using @arduino Nano, easy to print, manageable and expandable to 15 "Tabs" thanks to the firmware of @caligari_pub
+
 - [escoRnaFID][RnaFID]PCB for the project for children with visual impairment or blindness,
   developed by Angel Villanueva [@avilmaru][@avil] to control an Escornabot with RFID cards
 
