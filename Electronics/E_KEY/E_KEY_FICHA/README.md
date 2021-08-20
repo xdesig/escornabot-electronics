@@ -21,7 +21,7 @@ The selection will always be configured on the end plates, according to the firm
 <img src="E_KEY_T_V.png" width="300" align="right">
 
 
-##Certification OSHWA ES000024
+
 
 
 ## License hardware and docu.
@@ -42,6 +42,8 @@ licensed under [Creative Commons BY-SA][LICENSEcc] or [CERN Open Hardware Licenc
     GNU General Public License for more details.
     You should have received a copy of the GNU General Public License
     along with this program.  If not, see <https://www.gnu.org/licenses/>.
+
+## Certification OSHWA ES000024
 
 
 ## To buy boards
