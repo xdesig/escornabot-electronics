@@ -43,7 +43,7 @@ licensed under [Creative Commons BY-SA][LICENSEcc] or [CERN Open Hardware Licenc
     You should have received a copy of the GNU General Public License
     along with this program.  If not, see <https://www.gnu.org/licenses/>.
 
-## Certification OSHWA ES000024
+## Certification OSHWA ES000024   <https://certification.oshwa.org/es000024.html>
 
 
 ## To buy boards
