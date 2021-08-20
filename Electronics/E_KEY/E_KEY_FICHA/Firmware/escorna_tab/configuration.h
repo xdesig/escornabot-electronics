@@ -41,14 +41,14 @@
 */
 //*
 // escornabot codes
-#define CODE_0 ""
+#define CODE_0 "G"
 #define CODE_1 "W\n"
 #define CODE_2 "s\n"
 #define CODE_3 "w\n"
 #define CODE_4 "E\n"
 #define CODE_5 "n\n"
 #define CODE_6 "e\n"
-#define CODE_7 "G\n"
+#define CODE_7 "g\n"
 #define TAB_SEPARATOR ""
 #define ROW_SEPARATOR ""
 #define PRG_SEPARATOR "g\n"

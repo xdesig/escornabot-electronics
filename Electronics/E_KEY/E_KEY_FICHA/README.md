@@ -1,5 +1,7 @@
 <img src="E_KEY_T_V_6F_IMG.png" width="300" align="right">
 
+## EscornabotFicha   
+                     certification.oshwa.org/list.html
 ## E_KEY_FICHA (Tag)
 It allows the programming of Escornabot using printed or cut-out cards (cardboard ..) communicating the commands via Bluetooth 
 using @arduino Nano, easy to print, manageable and expandable to 15 "Tabs" thanks to the firmware of @caligari_pub.
@@ -19,6 +21,8 @@ The selection will always be configured on the end plates, according to the firm
 <img src="E_KEY_T_V.png" width="300" align="right">
 
 
+##Certification OSHWA ES000024
+
 
 ## License hardware and docu.
 
@@ -26,7 +30,7 @@ Every content in this repo, otherwise specified under subdirectories, is
 licensed under [Creative Commons BY-SA][LICENSEcc] or [CERN Open Hardware Licence -W- V2][OHL-W-V2].
 (by [XDeSIG][XDE01])
 
-## License sotware.
+## License software.
   Copyright (C) 2020  Rafa Couto <caligari@treboada.net>
     This program is free software: you can redistribute it and/or modify
     it under the terms of the GNU General Public License as published by
