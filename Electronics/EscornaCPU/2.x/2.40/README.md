@@ -9,13 +9,19 @@ Arduino Uno, Arduino Nano compatible or ATmega minicore
    
 ## License
 
-Every content in this repo, otherwise specified under subdirectories, is
-licensed under [CERN Open Hardware Licence -W- V2][OHL-W-V2].
-(by [XDeSIG][XDE01])
+<img src="oshw_facts.png" width="210" align="left">
+
+<br><br><br><br>
+
+
+## Open Hardware Certification program
+
+<img src="ES000011.svg" width="200" align="left">
+
+<br><br><br><br><br><br><br>
 
 
 ## To buy boards
-
 Developer doesn't produce boards to get money. [_provider_][provider]
 
 Are you a board provider? Please, send us your buyer's guide! xdesig@gmail.com
